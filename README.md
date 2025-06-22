@@ -7,7 +7,7 @@ a
 ---
 ## Chapters
 ### Chapter 1
-This is the first Chapter ![a](https://x.com/patorjk/photo)
+This is the first Chapter ![a](image.png)
 Very spoooky
 ### Chapter 2
 It happened **Yesterday**
