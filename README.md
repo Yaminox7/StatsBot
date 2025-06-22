@@ -1,11 +1,11 @@
-# Page title
+# Page title ![a](image.png) 2
 ## Introduction
 This is the Introduction
 ![a](image.png)
 ---
 ## Chapters
 ### Chapter 1
-This is the first Chapter ![a](image.png)
+This is the first Chapter
 Very spoooky
 ### Chapter 2
 It happened **Yesterday**
