@@ -1,9 +1,7 @@
 # Page title
 ## Introduction
 This is the Introduction
-e  
-a  
-![a](https://x.com/patorjk/photo)
+![a](image.png)
 ---
 ## Chapters
 ### Chapter 1
