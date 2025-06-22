@@ -1,5 +1,5 @@
 # Page title ![a](image.png) 2
-## Introduction
+## Intro~~duction~~
 This is the Introduction
 ![a](image.png)
 ---
